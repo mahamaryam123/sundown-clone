@@ -1,10 +1,10 @@
 @font-face {
   font-family: font;
-  src: url(font/NeueHaasDisplayMediu.ttf);
+  src: url(/NeueHaasDisplayMediu.ttf);
 }
 @font-face {
   font-family: fontlight;
-  src: url(font/NeueHaasDisplayRomanItalic.ttf);
+  src: url(/NeueHaasDisplayRomanItalic.ttf);
 }
 * {
   margin: 0;
